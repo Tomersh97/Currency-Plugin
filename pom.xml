@@ -10,12 +10,12 @@
     <version>4.2.0</version>
 
     <organization>
-        <name>Example Company</name>
+        <name>Tomer</name>
         <url>http://www.example.com/</url>
     </organization>
 
     <name>currency</name>
-    <description>This is the com.mycompany.jira.plugins:currency plugin for Atlassian JIRA.</description>
+    <description>This is the Currency plugin for JIRA.</description>
     <packaging>atlassian-plugin</packaging>
 
     <dependencies>
